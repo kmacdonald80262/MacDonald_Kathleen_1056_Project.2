@@ -1,0 +1,177 @@
+@charset "UTF-8";
+
+.hidden
+{
+	display: none;
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+#mainHeader
+{
+	background-color: black;
+	height: 220px;
+}
+
+#mainHeader h1
+{
+	font-family: 'Staatliches', cursive;
+	color: white;
+	font-size: 200px;
+	padding-left: 40px;
+	letter-spacing: 20px;
+
+
+}
+
+
+#logo
+{
+	height: 200px;
+}
+
+.container
+{
+	position: relative;
+
+}
+
+.text
+{
+	position: absolute;
+	bottom: 1940px;
+	right: 40px;
+	left: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.text p
+{
+	text-align: center;
+	color: white;
+	font-family: 'Staatliches', cursive;
+	font-size: 50px;
+}
+
+.text p:first-letter
+{
+	color: #59ccd3;
+	font-size: 80px;
+}
+.textSec
+{
+	text-align: center;
+	font-family: 'Neucha', cursive;
+	font-size: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.textSec:first-line
+{
+	font-weight: bold;
+}
+
+{
+
+}
+
+.stream
+{
+	margin-left: 160px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+}
+
+.tray
+{
+	margin-top: 40px;
+	margin-left: 180px;
+}
+
+.row2
+{
+	display: flex;
+	flex-direction: row;
+	background-color: black;
+}
+.row4
+{
+	display: flex;
+	flex-direction: row;
+	background-color: black;
+	justify-content: space-between;
+}
+
+.troutMouth
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.troutPeel
+{
+	padding-top: 40px;
+}
+
+.babyFish
+{
+	padding-top: 40px;
+}
+
+
+
+.text2
+{
+	display: flex;
+	flex-direction: row;
+	font-family: 'Neucha', cursive
+	
+}
+
+.text2 p
+{
+	font-size: 25px;
+}
+
+.text2 p:first-line
+{
+	font-weight: bold;
+}
+
+.text2 p:first-letter
+{
+	font-size: 40px;
+}
+
+#para2
+{
+	margin-top: 80px;
+}
+
+#para1
+{
+	margin-top: 40px;
+}
+
+#footer
+{
+	background-color: black;
+	height: 60px;
+}
+
+#troutMeas
+{
+	margin-top: 10px;
+}
+
