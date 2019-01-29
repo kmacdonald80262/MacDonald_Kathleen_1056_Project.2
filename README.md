@@ -1,6 +1,6 @@
-#Typography for the Web
+Typography for the Web
 
-##Installation/Usage##
+Installation/Usage
 
 git init
 
@@ -13,9 +13,9 @@ Go into the repository
 cd MacDonald_Kathleen_Typography
 
 
-##Built With##
+Built With
 HTML5, CSS3, and JavaScript
 
 
-##Authors##
+Authors
 Kathleen MacDonald - Designer and Developer
